@@ -1,0 +1,19 @@
+# Thư mục cấu hình IDE
+.vscode/
+.idea/
+
+# Thư mục biên dịch và build Java
+bin/
+build/
+dist/
+out/
+*.class
+*.jar
+
+# File log và môi trường
+*.log
+.env
+
+# File hệ điều hành
+.DS_Store
+Thumbs.db
